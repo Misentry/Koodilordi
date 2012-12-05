@@ -12,6 +12,7 @@ public class Haistapaskamailma {
     
     public static void main(String[] args) {
         System.out.println("Moi!");
+        System.out.println("adada");
     }
 
 }
