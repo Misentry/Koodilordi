@@ -8,10 +8,11 @@ package Tamaonpaketti;
  *
  * @author s1000779
  */
-public class Haistapaskamailma {
+public class HelloWorld {
     
     public static void main(String[] args) {
         System.out.println("Moi!");
+        System.out.println("Hello worl!");
     }
 
 }
